@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+    <center>
+        <table cellpadding="10" cellspacing="0" width="900">
+            <tr>
+                <td width="200">
+                    <img src="duckshit.jpg" alt="Profile Picture" width="200" height="200">
+                </td>
+                
+                <td colspan="2">
+                    <h1>Tinio, Don Eugene N.</h1>
+                    <p><em>#127 Purok 4 Navaling,Magalang, Pampanga</em></p>
+                    <p><strong>Contact Number:</strong> 09932447372</p>
+                    <p><strong><u>Email:</u></strong> dontinio@spcf.edu.ph</p>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="3">
+                    <hr>
+                    <h2>Work Experience</h2>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>Butcher</strong></td>
+                <td colspan="2">Magalang Butcher Shop<br>2019-2023</td>
+            </tr>
+            <tr>
+                <td><strong>Mekaniko</strong></td>
+                <td colspan="2">Det Works<br>2024-Present</td>
+            </tr>
+            <tr>
+                <td><strong>Projecto Manager</strong></td>
+                <td colspan="2">Senior Prjoect Engineer<br>2021-present</td>
+            </tr>
+            <tr>
+                <td><strong>Taga Rebound</strong></td>
+                <td colspan="2">Sa mga iniwan<br>2023-present</td>
+            </tr>
+         
+            <tr>
+                <td colspan="3">
+                    <hr>
+                    <h2>Educational Background</h2>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>Elementary School</strong></td>
+                <td colspan="2">Magalang Elementary School<br>2020</td>
+            </tr>
+            <tr>
+                <td><strong>High School</strong></td>
+                <td colspan="2">Magalang Christian Ecumenical School<br>2012-2019</td>
+            </tr>
+            <tr>
+                <td><strong>College</strong></td>
+                <td colspan="2">Oxford University<br>2021-present<p>Systems Plus College Foundation<br>2021-present</p></td>
+            </tr>
+           
+            <tr>
+                <td colspan="3">
+                    <hr>
+                    <h2>Character</h2>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>Mr. Andrey Manaloto</strong></td>
+                <td colspan="2">President: Manaloto Jeepney Clark Corporation<br>Contact Number:09165399326</td>
+            </tr>
+            <tr>
+                <td><strong>Mr. Laurence Dantes</strong></td>
+                <td colspan="2">Dota2 TI Head Program<br>Contact Number:09165866742 </td>
+            </tr>
+            <tr>
+                <td><strong>Mr. Jesus Brown</strong></td>
+                <td colspan="2">Dean: Systems Plus College Foundation<br>Contact Number: 09068458674</td>
+            </tr>
+            <tr>
+                <td><strong>Mr. Isaac Harris</strong></td>
+                <td colspan="2">Black Lives Matter President: Systems Plus College Foundation<br>Contact Number: 09745634856</td>
+            </tr>
+     
+            <tr>
+                
+                <td colspan="3">
+                    <hr>
+                    <h2>I hereby</h2>
+                    <p>Certify that the information mentioned is true and correct according to the best of my knowledge.</p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"></td>
+                <td align= "right">Tinio, Don Eugene N.</td>
+               
+            </tr>
+
+        </table>
+    </center>
+</body>
+</html>
